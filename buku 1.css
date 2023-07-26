@@ -1,0 +1,27 @@
+.class {
+    font-family:buxton sketch;
+}
+#header{
+    background-color:blue;
+    color: whitesmoke;
+    text-align:center;
+    padding:20px;
+    width: 600px;
+}
+#input, #data{
+    width:250px;
+    float:left;
+    padding: 5px 5px 5px 5px;
+     font-size: 20px;
+}
+#data{
+     text-align:right;
+}
+#footer{
+    background-color: pink;
+    color: white;
+    clear:both;
+    text-align:center;
+    padding: 20px;
+    width:500px;
+}
